@@ -10,6 +10,16 @@ namespace InstrumentalToolsHW
     {
         public double Semiaxis1 { get; private set; }
         public double Semiaxis2 { get; private set; }
+
+        public Ellipse(double a, double b)
+        {
+            if (a <= 0 || b <= 0)
+            {
+                throw new Exception("Semiaxis's lenght must be more than 0");
+            }
+            Semiaxis1 = a;
+            Semiaxis2 = b;
+        }
         public override double Perimeter()
         {
             return 2.0 * System.Math.PI * System.Math.Sqrt((Semiaxis1 * Semiaxis1 + Semiaxis2 * Semiaxis2) / 2);
