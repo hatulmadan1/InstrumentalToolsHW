@@ -56,6 +56,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\InstrumentalToolsHW\InstrumentalToolsHW.csproj">
+      <Project>{d2c7a234-f340-436e-986b-8571a9be3cbe}</Project>
+      <Name>InstrumentalToolsHW</Name>
+    </ProjectReference>
     <ProjectReference Include="..\InstrumentalTools\InstrumentalTools.csproj">
       <Project>{3910f8bd-f9e2-410d-8b3e-07d6324f01c9}</Project>
       <Name>InstrumentalTools</Name>
