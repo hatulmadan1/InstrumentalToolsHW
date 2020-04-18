@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace InstrumentalTools
+namespace InstrumentalToolsHW
 {
     public class Triangle : Figure
     {
