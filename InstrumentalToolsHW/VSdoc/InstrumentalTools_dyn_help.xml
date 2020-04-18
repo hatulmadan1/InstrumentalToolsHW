@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<DynamicHelp xmlns="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd" xmlns:xsi="http://www.w3.org/2000/10/XMLSchema-instance" xsi:schemaLocation="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd">	
+   <LINKGROUP ID="InstrumentalTools" Title="InstrumentalTools Reference Help" Priority="2100">
+      <GLYPH Expanded="vs:/ctxhelp_show.gif" Collapsed="vs:/ctxhelp_hide.gif"/>
+   </LINKGROUP>
+
+
+   <Context>
+      <Keywords>
+         <KItem Name="InstrumentalTools.Figure" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:InstrumentalTools.chm::/topic_0000000000000001.html" LinkGroup="InstrumentalTools">Figure Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="InstrumentalTools" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:InstrumentalTools.chm::/topic_0000000000000000.html" LinkGroup="InstrumentalTools">InstrumentalTools Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="InstrumentalTools Reference" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:InstrumentalTools.chm::/topic_000000000000001B.html" LinkGroup="InstrumentalTools">InstrumentalTools Reference</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="InstrumentalTools.Figure.Perimeter" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:InstrumentalTools.chm::/topic_0000000000000003.html" LinkGroup="InstrumentalTools">Perimeter Method {InstrumentalTools.Figure}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="InstrumentalTools.Rectangle.Perimeter" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:InstrumentalTools.chm::/topic_000000000000000B.html" LinkGroup="InstrumentalTools">Perimeter Method {InstrumentalTools.Rectangle}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="InstrumentalTools.Round.Perimeter" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:InstrumentalTools.chm::/topic_0000000000000011.html" LinkGroup="InstrumentalTools">Perimeter Method {InstrumentalTools.Round}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="InstrumentalTools.Triangle.Perimeter" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:InstrumentalTools.chm::/topic_0000000000000019.html" LinkGroup="InstrumentalTools">Perimeter Method {InstrumentalTools.Triangle}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="InstrumentalTools.Program" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:InstrumentalTools.chm::/topic_0000000000000005.html" LinkGroup="InstrumentalTools">Program Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="InstrumentalTools.Round.Radius" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:InstrumentalTools.chm::/topic_000000000000000E.html" LinkGroup="InstrumentalTools">Radius Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="InstrumentalTools.Rectangle" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:InstrumentalTools.chm::/topic_0000000000000006.html" LinkGroup="InstrumentalTools">Rectangle Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="InstrumentalTools.Rectangle.Rectangle" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:InstrumentalTools.chm::/topic_0000000000000009.html" LinkGroup="InstrumentalTools">Rectangle Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="InstrumentalTools.Round" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:InstrumentalTools.chm::/topic_000000000000000D.html" LinkGroup="InstrumentalTools">Round Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="InstrumentalTools.Round.Round" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:InstrumentalTools.chm::/topic_000000000000000F.html" LinkGroup="InstrumentalTools">Round Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="InstrumentalTools.Rectangle.Side1" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:InstrumentalTools.chm::/topic_0000000000000007.html" LinkGroup="InstrumentalTools">Side1 Property {InstrumentalTools.Rectangle}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="InstrumentalTools.Triangle.Side1" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:InstrumentalTools.chm::/topic_0000000000000014.html" LinkGroup="InstrumentalTools">Side1 Property {InstrumentalTools.Triangle}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="InstrumentalTools.Rectangle.Side2" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:InstrumentalTools.chm::/topic_0000000000000008.html" LinkGroup="InstrumentalTools">Side2 Property {InstrumentalTools.Rectangle}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="InstrumentalTools.Triangle.Side2" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:InstrumentalTools.chm::/topic_0000000000000015.html" LinkGroup="InstrumentalTools">Side2 Property {InstrumentalTools.Triangle}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="InstrumentalTools.Triangle.Side3" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:InstrumentalTools.chm::/topic_0000000000000016.html" LinkGroup="InstrumentalTools">Side3 Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="InstrumentalTools.Figure.Size" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:InstrumentalTools.chm::/topic_0000000000000002.html" LinkGroup="InstrumentalTools">Size Method {InstrumentalTools.Figure}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="InstrumentalTools.Rectangle.Size" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:InstrumentalTools.chm::/topic_000000000000000A.html" LinkGroup="InstrumentalTools">Size Method {InstrumentalTools.Rectangle}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="InstrumentalTools.Round.Size" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:InstrumentalTools.chm::/topic_0000000000000010.html" LinkGroup="InstrumentalTools">Size Method {InstrumentalTools.Round}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="InstrumentalTools.Triangle.Size" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:InstrumentalTools.chm::/topic_0000000000000018.html" LinkGroup="InstrumentalTools">Size Method {InstrumentalTools.Triangle}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="InstrumentalTools.Figure.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:InstrumentalTools.chm::/topic_0000000000000004.html" LinkGroup="InstrumentalTools">ToString Method {InstrumentalTools.Figure}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="InstrumentalTools.Rectangle.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:InstrumentalTools.chm::/topic_000000000000000C.html" LinkGroup="InstrumentalTools">ToString Method {InstrumentalTools.Rectangle}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="InstrumentalTools.Round.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:InstrumentalTools.chm::/topic_0000000000000012.html" LinkGroup="InstrumentalTools">ToString Method {InstrumentalTools.Round}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="InstrumentalTools.Triangle.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:InstrumentalTools.chm::/topic_000000000000001A.html" LinkGroup="InstrumentalTools">ToString Method {InstrumentalTools.Triangle}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="InstrumentalTools.Triangle" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:InstrumentalTools.chm::/topic_0000000000000013.html" LinkGroup="InstrumentalTools">Triangle Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="InstrumentalTools.Triangle.Triangle" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:InstrumentalTools.chm::/topic_0000000000000017.html" LinkGroup="InstrumentalTools">Triangle Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+</DynamicHelp>
+

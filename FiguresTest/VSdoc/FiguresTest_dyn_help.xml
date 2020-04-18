@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<DynamicHelp xmlns="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd" xmlns:xsi="http://www.w3.org/2000/10/XMLSchema-instance" xsi:schemaLocation="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd">	
+   <LINKGROUP ID="FiguresTest" Title="FiguresTest Reference Help" Priority="2100">
+      <GLYPH Expanded="vs:/ctxhelp_show.gif" Collapsed="vs:/ctxhelp_hide.gif"/>
+   </LINKGROUP>
+
+
+   <Context>
+      <Keywords>
+         <KItem Name="FiguresTest" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:FiguresTest.chm::/topic_0000000000000000.html" LinkGroup="FiguresTest">FiguresTest Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="FiguresTest Reference" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:FiguresTest.chm::/topic_0000000000000007.html" LinkGroup="FiguresTest">FiguresTest Reference</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="FiguresTest.UnitTest1.MinusRectangle" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:FiguresTest.chm::/topic_0000000000000002.html" LinkGroup="FiguresTest">MinusRectangle Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="FiguresTest.UnitTest1.MinusRound" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:FiguresTest.chm::/topic_0000000000000003.html" LinkGroup="FiguresTest">MinusRound Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="FiguresTest.UnitTest1.MinusTriangle" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:FiguresTest.chm::/topic_0000000000000004.html" LinkGroup="FiguresTest">MinusTriangle Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="FiguresTest.UnitTest1.PerimeterTest" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:FiguresTest.chm::/topic_0000000000000005.html" LinkGroup="FiguresTest">PerimeterTest Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="FiguresTest.UnitTest1.SizeTest" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:FiguresTest.chm::/topic_0000000000000006.html" LinkGroup="FiguresTest">SizeTest Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="FiguresTest.UnitTest1" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:FiguresTest.chm::/topic_0000000000000001.html" LinkGroup="FiguresTest">UnitTest1 Class</LItem>
+      </Links>
+   </Context>
+   
+
+</DynamicHelp>
+
