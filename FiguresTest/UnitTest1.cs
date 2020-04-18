@@ -1,5 +1,5 @@
 ﻿using System;
-using InstrumentalTools;
+using InstrumentalToolsHW;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace FiguresTest
