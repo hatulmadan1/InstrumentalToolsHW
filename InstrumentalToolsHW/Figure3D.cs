@@ -11,5 +11,7 @@ namespace InstrumentalToolsHW
         Double Volume();
         Double SurfaceArea();
         Double EdgeLength();
+
+        String ToString();
     }
 }
